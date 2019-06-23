@@ -1,0 +1,11 @@
+# LeapPlay.Api.Model.RequestStationSettings
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**DisplayName** | **string** |  | 
+**Mode** | **string** |  | 
+**QrCode** | **string** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
